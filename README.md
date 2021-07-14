@@ -1,5 +1,5 @@
 # DESCGEN
-This repo contains data and code for the paper: DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions
+This repo contains data for the paper: DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions
 
 ## Dataset: 
 The dataset can be downloaded from the link: https://drive.google.com/drive/folders/1Nu3Y4lcau93hpJCJi6rhKOwEuLGrsHEc?usp=sharing
