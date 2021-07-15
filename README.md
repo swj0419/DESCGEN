@@ -3,7 +3,7 @@ This repo contains data for the paper: DESCGEN: A Distantly Supervised Dataset f
 
 ## Dataset: 
 The dataset can be downloaded from the link: https://drive.google.com/drive/folders/1Nu3Y4lcau93hpJCJi6rhKOwEuLGrsHEc?usp=sharing
-- The entity2documents file contains all source documents for writing descriptions, where the key is the entity name and the value is the list of documents mentioning the entity. 
+- The entity2context file contains all source documents for writing descriptions, where the key is the entity name and the value is the list of documents mentioning the entity. 
 
 - The entity2summary_train file contains the wiki summary for the training entities.
 
